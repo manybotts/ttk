@@ -94,7 +94,7 @@
     "OWNER_ID": {
       "description": "Used to restrict use of certain stuff to owner only.",
       "value": "12345678",
-      "required": false
+      "required": true
     } 
   },
  "stack": "container",
@@ -102,7 +102,7 @@
     {
       "plan": "heroku-postgresql",
       "options": {
-        "version": "10"
+        "version": "14"
       }
     }
   ]
