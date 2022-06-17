@@ -4,9 +4,9 @@
   "keywords": [
     "telegram","bot","torrent","leech"
   ],
-  "repository": "https://github.com/reaitten/tk",
-  "success_url": "https://github.com/reaitten/tk",
-  "website": "https://github.com/reaitten/tk",
+  "repository": "https://github.com/manybotts/ttk",
+  "success_url": "https://github.com/manybotts/ttk",
+  "website": "https://github.com/manybotts/ttk",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
